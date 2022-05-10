@@ -1,5 +1,3 @@
-# my-Git-repo
-this is my first repo
-my name is Nafiso Aden 
-i am pratcing my git up commands
+My journey with School of code
+this is a little log of a few project i have attempted/ or finished. 
 
