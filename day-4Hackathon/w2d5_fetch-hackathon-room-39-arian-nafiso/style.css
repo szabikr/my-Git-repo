@@ -1,0 +1,6 @@
+ol {
+    list-style-type: none; 
+}
+#playAgain{
+    visibility: hidden;
+}
